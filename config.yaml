@@ -1,2 +1,8 @@
 sensor_mac: "AA:AA:AA:AA:AA:AA"
+topic: "mj_ht"
 max_retry: 10
+polling_interval: 1800
+mqtt:
+  host: <host name>
+  user: <user name>
+  password: <password>
